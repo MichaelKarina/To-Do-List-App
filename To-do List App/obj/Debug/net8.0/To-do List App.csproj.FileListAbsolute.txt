@@ -1,0 +1,14 @@
+C:\Users\mike\source\repos\To-do List App\To-do List App\bin\Debug\net8.0\To-do List App.exe
+C:\Users\mike\source\repos\To-do List App\To-do List App\bin\Debug\net8.0\To-do List App.deps.json
+C:\Users\mike\source\repos\To-do List App\To-do List App\bin\Debug\net8.0\To-do List App.runtimeconfig.json
+C:\Users\mike\source\repos\To-do List App\To-do List App\bin\Debug\net8.0\To-do List App.dll
+C:\Users\mike\source\repos\To-do List App\To-do List App\bin\Debug\net8.0\To-do List App.pdb
+C:\Users\mike\source\repos\To-do List App\To-do List App\obj\Debug\net8.0\To-do List App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mike\source\repos\To-do List App\To-do List App\obj\Debug\net8.0\To-do List App.AssemblyInfoInputs.cache
+C:\Users\mike\source\repos\To-do List App\To-do List App\obj\Debug\net8.0\To-do List App.AssemblyInfo.cs
+C:\Users\mike\source\repos\To-do List App\To-do List App\obj\Debug\net8.0\To-do List App.csproj.CoreCompileInputs.cache
+C:\Users\mike\source\repos\To-do List App\To-do List App\obj\Debug\net8.0\To-do List App.dll
+C:\Users\mike\source\repos\To-do List App\To-do List App\obj\Debug\net8.0\refint\To-do List App.dll
+C:\Users\mike\source\repos\To-do List App\To-do List App\obj\Debug\net8.0\To-do List App.pdb
+C:\Users\mike\source\repos\To-do List App\To-do List App\obj\Debug\net8.0\To-do List App.genruntimeconfig.cache
+C:\Users\mike\source\repos\To-do List App\To-do List App\obj\Debug\net8.0\ref\To-do List App.dll
